@@ -7,3 +7,4 @@ https://github.com/Flexiboi/flex_brickphone/tree/main
 # WHAT YOU NEED
 - Helnius bank MLO
 - My brickphone script
+- https://github.com/Flexiboi/eye_minigames
