@@ -1,0 +1,49 @@
+{
+   "error": {
+      "drill_failed": "You drill got to hot..."
+   },
+   "success": {
+   },
+   "progress": {
+   },
+   "info": {
+      "missing_item": "Hmmm did i bring everything?",
+      "missing_bag": "Are you wearing a bag?"
+   },
+   "target": {
+      "vaultpanel": "Try combination...",
+      "gate": "Blow up...",
+      "trolly": "Grab...",
+      "door": "Lockpick...",
+      "drill": "Drill..."
+   },
+   "phone_message": {
+      "commands": {
+         "start_fleeca": "fleeca",
+         "hack_fleeca": "fleeca"
+      },
+      "messages": {
+         "fleeca":{
+            "not_in_heist": "What do you want? \n \nI'm not helping you...",
+            "already_inheist": "I'm already helping you... \n \nCome back later",
+            "contect_name": "Misses. Flee Kah",
+            "no_bank_found": "Hi dude, message me back later...",
+            "no_members": "Did you bring your group?",
+            "max_members": "The group needs to be max %s member before I can give you this mission... \n \n(Current %s)",
+            "not_leader": "You need a group to do this...",
+            "title": "Message from Fle Ka",
+            "start_mission": "Hi dude, go fast to the bank before its all over...",
+            "started_hack": "Connecting to fleeca computer...",
+            "not_near_hackpos": "You are to far away from the bank...",
+            "not_in_vehicle": "Are you seating inside a car with 4 weels?",
+            "hack_success": "Lets go! \nWe are in the system... \n \nPassword is: **%s**",
+            "hack_out_of_distance": "Can't connect to the bank from here... \n \nOr already beeing robbed...?"
+         }
+      }
+   },
+   "commands": {
+      "fix_fleeca": "fixfleeca",
+      "fix_fleeca_desc": "Fix fleeca",
+      "fix_fleeca_type": "hack/door/vault/gate"
+   }
+}

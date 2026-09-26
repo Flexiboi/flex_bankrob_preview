@@ -1,0 +1,49 @@
+{
+   "error": {
+      "drill_failed": "Oei je boor is te warm geworden..."
+   },
+   "success": {
+   },
+   "progress": {
+   },
+   "info": {
+      "missing_item": "Hmmm heb ik wel alles bij me?",
+      "missing_bag": "Heb je wel je zak mee?"
+   },
+   "target": {
+      "vaultpanel": "Code invoeren...",
+      "gate": "Opblazen...",
+      "trolly": "Oprapen...",
+      "door": "Openbreken...",
+      "drill": "Boren..."
+   },
+   "phone_message": {
+      "commands": {
+         "start_fleeca": "fleeca",
+         "hack_fleeca": "fleeca"
+      },
+      "messages": {
+         "fleeca":{
+            "not_in_heist": "Wat moet je? \n \nIk ben je niet aan het helpen...",
+            "already_inheist": "Ik heb je al gehoplen... \n \nKom later terug",
+            "contect_name": "Mvr. Flee Kah",
+            "no_bank_found": "Yow makker, bericht me later maar opnieuw...",
+            "no_members": "Je moet in een groep zitten...",
+            "max_members": "Je mag maxmimum maar met %s in een groep zitten voor ik je deze opdracht kan geven... \n \n(Huidig %s)",
+            "not_leader": "Je meot een groep in bezit hebben...",
+            "title": "Bericht van Fle Ka",
+            "start_mission": "Hey makker, ga snel naar de bank voor het te laat is...",
+            "started_hack": "Verbinding maken met fleeca computer...",
+            "not_near_hackpos": "Je bent te ver van de bank...",
+            "not_in_vehicle": "Zit je wel in een auto met 4 wielen?",
+            "hack_success": "Lets go! \nWe zitten binnen in het systeem... \n \nKleusdeurwachtwoord is: **%s**",
+            "hack_out_of_distance": "Kan geen verbinding maken met de bank vanaf hier... \n \nOf iemand is al bezig..."
+         }
+      }
+   },
+   "commands": {
+      "fix_fleeca": "fixfleeca",
+      "fix_fleeca_desc": "Fix kapotte fleeca",
+      "fix_fleeca_type": "hack/door/vault/gate"
+   }
+}
